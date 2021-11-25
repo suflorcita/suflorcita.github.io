@@ -18,17 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: La isla deel Sool
-# email: noniadas@gmail.com
+title: La isla del SOOOOL 
+#email: noniadas@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  LA LUNA EN PISCIS Y SOL MAYOR 
+ MI LUNA EN PISCIS Y SOL MAYOR 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SolCatv2
 github_username:  suflorcita
 
 # Build settings
-theme: jekyll-theme-tactile
+theme: minima
 plugins:
   - jekyll-feed
 
