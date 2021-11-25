@@ -28,7 +28,7 @@ twitter_username: SolCatv2
 github_username:  suflorcita
 
 # Build settings
-theme: jekyll-theme-architect
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
